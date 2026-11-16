@@ -1,9 +1,10 @@
 {
-  "symbol": "OANDA:XAUUSD",
   "timeframe": "15",
-  "status": "TEST",
-  "timestamp_jst": "2026-11-16T15:30:00+09:00",
   "close": 3851.39,
+  "timestamp_jst": "2026-11-16T16:52:00+09:00",
+  "note": "Cloudflare to GitHub connection test. Not live market data.",
+  "symbol": "OANDA:XAUUSD",
+  "status": "TEST",
   "ema20": 3867.181,
-  "note": "Connectivity test only. Not live market data."
+  "received_at": "2026-11-16T07:52:01.448Z"
 }
