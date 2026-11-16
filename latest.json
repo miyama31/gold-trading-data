@@ -1,0 +1,9 @@
+{
+  "symbol": "OANDA:XAUUSD",
+  "timeframe": "15",
+  "status": "TEST",
+  "timestamp_jst": "2026-11-16T15:30:00+09:00",
+  "close": 3851.39,
+  "ema20": 3867.181,
+  "note": "Connectivity test only. Not live market data."
+}
